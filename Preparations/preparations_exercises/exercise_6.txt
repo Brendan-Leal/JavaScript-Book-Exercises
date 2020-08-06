@@ -1,0 +1,11 @@
+Which of the following names satisfy the style guidelines for variable names? For the purposes of this question, constants are not variables.
+
+
+index -ok
+CatName
+snake_case
+lazyDog -ok
+quick_Fox
+1stCharacter
+operand2 -ok
+BIG_NUMBER

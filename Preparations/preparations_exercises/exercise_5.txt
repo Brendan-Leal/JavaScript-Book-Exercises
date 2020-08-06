@@ -1,0 +1,16 @@
+Identify the Constructors for each of the following methods and classify each method as either a "Static" or a "Prototype" method:
+
+1. substring
+Constructor is String 
+prototype
+
+2. create
+constructor is object
+static method
+
+3.fromCharCode
+constructor is string
+static method
+
+constructor is Array and string
+prototype method
