@@ -1,0 +1,4 @@
+/*
+Exception handling is best used when anticipating errors.
+If one is encountered then your code will try to execute some statements
+to handle the case.  */
